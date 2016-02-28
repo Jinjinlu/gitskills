@@ -1,1 +1,1 @@
-# gitskills
+Git is quick.
